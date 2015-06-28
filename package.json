@@ -1,0 +1,35 @@
+{
+  "name": "witch-template",
+  "version": "1.0.0",
+  "description": "Template renderer for witchcraft compatible with any consolidate engine.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krajzeg/witch-template"
+  },
+  "keywords": [
+    "witchcraft",
+    "template",
+    "consolidate",
+    "layout"
+  ],
+  "author": "Jakub Wasilewski <wasyl@wasyl.eu> (http://wasyl.eu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krajzeg/witch-template/issues"
+  },
+  "homepage": "https://github.com/krajzeg/witch-template",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "cheerio": "^0.19.0",
+    "mocha": "^2.2.5",
+    "mote": "^0.2.0"
+  }
+}
