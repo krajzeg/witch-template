@@ -4,7 +4,7 @@
   "description": "Template renderer for witchcraft compatible with any consolidate engine.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "node_modules/.bin/mocha test"
   },
   "repository": {
     "type": "git",
