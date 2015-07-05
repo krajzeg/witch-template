@@ -1,6 +1,6 @@
 {
   "name": "witch-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template renderer for witchcraft compatible with any consolidate engine.",
   "main": "lib/index.js",
   "scripts": {
